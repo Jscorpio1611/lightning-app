@@ -58,7 +58,7 @@
     "ajv": "^6.5.0",
     "babel-plugin-react-native-web": "^0.11.2",
     "concurrently": "^3.5.1",
-    "electron": "4.1.5",
+    "electron": "9.4.0",
     "electron-builder": "20.39.0",
     "eslint-config-google": "^0.12.0",
     "eslint-config-prettier": "^4.1.0",
