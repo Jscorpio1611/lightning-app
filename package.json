@@ -77,7 +77,7 @@
     "unexpected": "^10.37.2",
     "unexpected-sinon": "^10.10.1",
     "wait-on": "^2.1.0",
-    "webpack": "4.29.6"
+    "webpack": "5.94.0"
   },
   "browserslist": [
     "electron 4.0"
